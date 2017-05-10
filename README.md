@@ -31,6 +31,8 @@ import pandas as pd
 import numpy as np
 ```
 
-* Now let's get some data!
+* Now let's get some data!  Start with: https://data.somervillema.gov/resource/q3yh-mp87.json 
+
+
 
 
