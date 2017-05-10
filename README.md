@@ -33,6 +33,6 @@ import numpy as np
 
 * Now let's get some data!  Start with: https://data.somervillema.gov/resource/q3yh-mp87.json 
 
-
+* Run: pd.read and hit the tab so you can see what you can do (eg with sql or json, etc)
 
 
