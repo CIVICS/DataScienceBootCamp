@@ -19,4 +19,16 @@ For Civic Hacking project quick start onboarding
 
 * Panda is like "R" in that it creates "data frames" but it's build on NumPy
 
-# 
+# Getting Started
+
+Start with some import statements.  Let's bring the code from other packages into the current script.  We can then access the routines, functions, etc from other libaries.  Start with this:
+
+```python
+from datetime import datetime
+import matplotlib
+import matplotlib.pylab as plt
+import pandas as pd
+import numpy as np
+```
+
+Happy1
