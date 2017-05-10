@@ -40,5 +40,5 @@ import numpy as np
 df=pd.read_json("https://data.somervillema.gov/resource/q3yh-mp87.json")
 df
 '''
-
+* While an astrix appears between the brackets in the row to the left, the program is working hard!  Give it some time to ingest and process the data at the URL.  
 
