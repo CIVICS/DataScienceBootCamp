@@ -44,7 +44,7 @@ df
 
 * There is no standard data format in JSON, so we need to get that data into a format we can use to process it.  To wrangle the date format, do this:
 
-'''python
+```python
 permits[["applicationdate"]] = pd.to_datetime(permits["applicationdate"])
 permits[["expirationdate"]] = pd.to_datetime(permits["expirationdate"])
-'''
+```
