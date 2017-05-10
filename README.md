@@ -11,6 +11,8 @@ For Civic Hacking project quick start onboarding
 
 * It is a "REPL" (Read, Eval, Print, Loop) notebook for doing interactive development. 
 
+* Importantly, JuPyter also stores a record of the steps you took and each version of your scripts and such.  This is key for "reproducible" research and for the scientific in general.  
+
 ### Python NumPy
 
 ### Pandas 
