@@ -1,0 +1,113 @@
+[ {
+  "ticket_status" : "Closed",
+  "issue_description" : "Call Transfer - Forestry",
+  "object_type" : "Individual",
+  "city" : "Berkeley",
+  "issue_type" : "General Questions/information",
+  "secondary_issue_type" : "Front Office",
+  "ticket_id" : "121000073346",
+  "ticket_closed_date_time" : "2011-12-02T11:23:43",
+  "ticket_created_date_time" : "2011-12-01T10:20:20",
+  "indbdate" : "2017-05-09T04:16:59",
+  "location" : {
+    "latitude" : "37.869058",
+    "human_address" : "{\"address\":\"\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-122.270455"
+  },
+  "state" : "CA",
+  "neighborhood_district" : "Berkeley"
+}
+, {
+  "ticket_status" : "Closed",
+  "street_address" : "1600 HEARST AVE",
+  "issue_description" : "Illegal Dumping - City Property",
+  "object_type" : "Property",
+  "city" : "Berkeley",
+  "latitude" : "37.872212",
+  "issue_type" : "Streets, Utilities, and Transportation",
+  "secondary_issue_type" : "Clean City Program",
+  "ticket_id" : "121000325218",
+  "ticket_closed_date_time" : "2016-12-06T12:32:49",
+  "ticket_created_date_time" : "2016-12-05T14:24:03",
+  "indbdate" : "2017-05-09T04:15:21",
+  "location" : {
+    "latitude" : "37.87247",
+    "human_address" : "{\"address\":\"1600 HEARST AVE\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-122.279718"
+  },
+  "state" : "CA",
+  "apn" : "057 206901803",
+  "neighborhood_district" : "Berkeley",
+  "longitude" : "-122.27966519"
+}
+, {
+  "ticket_status" : "Closed",
+  "issue_description" : "Commercial Special Pickup",
+  "object_type" : "Street",
+  "city" : "Berkeley",
+  "issue_type" : "Refuse and Recycling",
+  "secondary_issue_type" : "Commercial",
+  "ticket_id" : "121000255255",
+  "ticket_closed_date_time" : "2015-09-16T11:46:40",
+  "ticket_created_date_time" : "2015-07-24T13:37:48",
+  "indbdate" : "2017-05-09T04:19:21",
+  "location" : {
+    "latitude" : "37.869058",
+    "human_address" : "{\"address\":\"\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-122.270455"
+  },
+  "state" : "CA",
+  "neighborhood_district" : "Berkeley"
+}
+, {
+  "ticket_status" : "Closed",
+  "street_address" : "1016 BANCROFT WAY",
+  "issue_description" : "Residential Reminder",
+  "object_type" : "Property",
+  "city" : "Berkeley",
+  "latitude" : "37.86409105",
+  "issue_type" : "Refuse and Recycling",
+  "secondary_issue_type" : "Residential",
+  "ticket_id" : "121000093531",
+  "ticket_closed_date_time" : "2013-06-26T15:58:17",
+  "ticket_created_date_time" : "2012-05-10T13:54:39",
+  "indbdate" : "2017-05-09T04:17:57",
+  "location" : {
+    "latitude" : "37.864303",
+    "human_address" : "{\"address\":\"1016 BANCROFT WAY\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-122.292246"
+  },
+  "state" : "CA",
+  "apn" : "056 193400400",
+  "neighborhood_district" : "Berkeley",
+  "longitude" : "-122.29214156"
+}
+, {
+  "ticket_status" : "Closed",
+  "street_address" : "1521 OREGON ST",
+  "issue_description" : "RECO Application - EECGB Rebate",
+  "object_type" : "Property",
+  "city" : "Berkeley",
+  "latitude" : "37.85640583",
+  "issue_type" : "Environmental Services and Programs",
+  "secondary_issue_type" : "Government Programs",
+  "ticket_id" : "121000018428",
+  "ticket_closed_date_time" : "2013-09-30T10:16:03",
+  "ticket_created_date_time" : "2010-07-08T13:40:43",
+  "indbdate" : "2017-05-09T04:14:19",
+  "location" : {
+    "latitude" : "37.856152",
+    "human_address" : "{\"address\":\"1521 OREGON ST\",\"city\":\"Berkeley\",\"state\":\"CA\",\"zip\":\"\"}",
+    "needs_recoding" : false,
+    "longitude" : "-122.278735"
+  },
+  "state" : "CA",
+  "apn" : "053 167101400",
+  "neighborhood_district" : "Berkeley",
+  "longitude" : "-122.27875544"
+}
+ ]
